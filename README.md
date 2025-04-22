@@ -1,4 +1,6 @@
-# 📊 Sales Performance Dashboard Analysis
+# 📊 Awesome Chocolates Sales Performance Dashboard Analysis
+![awesome chocolates logo](https://github.com/user-attachments/assets/5694455c-9f3c-4a07-be6b-7ef71b5cb6ae)
+
 
 ## 🧾 Executive Summary
 
