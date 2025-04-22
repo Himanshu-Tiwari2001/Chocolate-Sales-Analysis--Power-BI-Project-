@@ -113,6 +113,9 @@ Top Markets by Boxes Sold:
 ![image](https://github.com/user-attachments/assets/4f5c0462-fc1d-40fd-a798-99d19aabedc4)
 
 
+**Model View**
+![image](https://github.com/user-attachments/assets/3b15f9c6-3d32-43a7-8fde-e5ebd00f354b)
+
 ## 📌 About
 
 This project is part of a business analytics case study focused on identifying performance drivers and improving sales strategies using data-driven insights.
