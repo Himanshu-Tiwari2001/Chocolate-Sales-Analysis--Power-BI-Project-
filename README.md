@@ -106,6 +106,9 @@ Top Markets by Boxes Sold:
   Further strengthen foothold in Canada, UK, NZ, and India.
 
 ---
+![Chocolate sales dashboard](https://github.com/user-attachments/assets/44c8b711-af61-4656-9e1e-6e38eb22ad04)
+
+
 ## Awesome Chocolate Sales Dashboard 
 ![image](https://github.com/user-attachments/assets/4d8bcacc-873a-423c-97d3-5b75ed7106e4)
 
