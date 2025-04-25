@@ -110,11 +110,11 @@ Top Markets by Boxes Sold:
 
 
 ## Awesome Chocolate Sales Dashboard 
-![image](https://github.com/user-attachments/assets/4d8bcacc-873a-423c-97d3-5b75ed7106e4)
+![image](https://github.com/user-attachments/assets/e8066def-cebd-4ab6-8c6d-113e8b307b58)
 
 
 ## Summary Table
-![image](https://github.com/user-attachments/assets/4f5c0462-fc1d-40fd-a798-99d19aabedc4)
+![image](https://github.com/user-attachments/assets/b3839acd-da0e-4db1-b3fa-d73c2cf20512)
 
 
 **Model View**
